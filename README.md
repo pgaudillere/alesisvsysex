@@ -1,8 +1,11 @@
 # alesisvsysex
 
 Python tool for configuring MIDI controllers:
-  Alesis V-Series
-  Arturia Beatstep
+  * Alesis V-Series
+  * Arturia Beatstep
+
+Beatstep part is based on the work of untergeek:
+https://www.untergeek.de/2014/11/taming-arturias-beatstep-sysex-codes-for-programming-via-ipad/
 
 ![screenshot](https://user-images.githubusercontent.com/978784/32703321-54e548b6-c7b1-11e7-8319-863091dee3d8.png)
 
